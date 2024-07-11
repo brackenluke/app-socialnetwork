@@ -1,6 +1,8 @@
 # app-socialnetwork
 This app is designed to work like a socail network. Users are allowed to post thoughts to the app.
 
+## Credits
+Some of the code was taken from the Module 18 Mini-Project: Student Statistics Back-End application found in the UTSA bootcamp gitlab. I used this application to help as an example.
 ## User Story
 AS A social media startup
 I WANT an API for my social network that uses a NoSQL database
